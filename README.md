@@ -1,6 +1,11 @@
 
 
-## CRUD Rest APIs using Spring boot 2, JPA, Hibernate 2 and MySQL
+## CRUD Rest APIs using Spring boot 2, JPA, Hibernate 2 and MySQL.
+
+![Author](https://img.shields.io/badge/author-vanyusuf1-orange)
+![Platform](https://img.shields.io/badge/platform-IntelliJ%20IDEA-blue)
+![Last Commit](https://img.shields.io/github/last-commit/vanyusuf1/CRUD-RESTFul-API-development)
+![Maintained](https://img.shields.io/maintenance/yes/2020)
 
 ### Designing RESTful APIs
 Following are the important things to consider when designing RESTful API’s:
