@@ -1,7 +1,8 @@
-# CRUD-RESTFul-API-development
-CRUD Rest APIs using Spring boot 2, JPA, Hibernate 2 and MySQL
----
-###Designing RESTful APIs
+
+
+## CRUD Rest APIs using Spring boot 2, JPA, Hibernate 2 and MySQL
+
+### Designing RESTful APIs
 Following are the important things to consider when designing RESTful API’s:
 
 - While designing any API, the most important thing is to think about the api consumer i.e. the client who is going to use the service. What are his needs? Does the service uri make sense to him? Does the request, response format make sense to him?
